@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/singh-family/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/singh-family/static/js/main.cd078dcc.chunk.js",
-    "main.js.map": "/singh-family/static/js/main.cd078dcc.chunk.js.map",
+    "main.js": "/singh-family/static/js/main.ae969e58.chunk.js",
+    "main.js.map": "/singh-family/static/js/main.ae969e58.chunk.js.map",
     "runtime-main.js": "/singh-family/static/js/runtime-main.d1b379fd.js",
     "runtime-main.js.map": "/singh-family/static/js/runtime-main.d1b379fd.js.map",
-    "static/js/2.9e379910.chunk.js": "/singh-family/static/js/2.9e379910.chunk.js",
-    "static/js/2.9e379910.chunk.js.map": "/singh-family/static/js/2.9e379910.chunk.js.map",
+    "static/js/2.3bcb34cd.chunk.js": "/singh-family/static/js/2.3bcb34cd.chunk.js",
+    "static/js/2.3bcb34cd.chunk.js.map": "/singh-family/static/js/2.3bcb34cd.chunk.js.map",
     "index.html": "/singh-family/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/singh-family/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.9e379910.chunk.js.LICENSE.txt": "/singh-family/static/js/2.9e379910.chunk.js.LICENSE.txt"
+    "static/js/2.3bcb34cd.chunk.js.LICENSE.txt": "/singh-family/static/js/2.3bcb34cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1b379fd.js",
-    "static/js/2.9e379910.chunk.js",
+    "static/js/2.3bcb34cd.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.cd078dcc.chunk.js"
+    "static/js/main.ae969e58.chunk.js"
   ]
 }
