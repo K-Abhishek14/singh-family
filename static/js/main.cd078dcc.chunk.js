@@ -1,0 +1,2 @@
+(this["webpackJsonpsingh-family"]=this["webpackJsonpsingh-family"]||[]).push([[0],{10:function(n,t,e){},11:function(n,t,e){"use strict";e.r(t);var c=e(1),i=e(0),s=e.n(i),r=e(3),a=e.n(r);e(9),e(10);var o=function(){return Object(c.jsx)("div",{className:"App"})};a.a.render(Object(c.jsx)(s.a.StrictMode,{children:Object(c.jsx)(o,{})}),document.getElementById("root"))},9:function(n,t,e){}},[[11,1,2]]]);
+//# sourceMappingURL=main.cd078dcc.chunk.js.map
