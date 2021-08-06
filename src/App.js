@@ -6,12 +6,12 @@ function App() {
   return (
     <div className="App">
       <OrgChart nodes={
-        [{ id: 1, name: "RAMDAYAL RAI" },
+        [{ id: 1, name: "KISUN RAI" },
         { id: 2, pid: 1, name: "SHIV RAI" },
         { id: 3, pid: 1, name: "RAJA RAI" },
-        { id: 2.1, pid: 2, name: "" },
-        { id: 2.2, pid: 2, name: "" },
-        { id: 2.3, pid: 2, name: "" },
+        { id: 2.1, pid: 2, name: "RAMDAYAL SINGH" },
+        { id: 2.2, pid: 2, name: "KAPILDEV SINGH" },
+        { id: 2.3, pid: 2, name: "TUKER SINGH" },
         { id: 3.1, pid: 3, name: "RAMAGYA SINGH" },
         { id: 2.11, pid: 2.1, name: "RAGHWA SINGH" },
         { id: 2.12, pid: 2.2, name: "RAMJI SINGH" },
